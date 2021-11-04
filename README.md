@@ -4,7 +4,7 @@
 
 - 🔥 An Developer Student focused on learning programing
 
-- ▶️ I regularly post videos on [youtube.com/PhecGames](https://youtube.com/maykbrito)
+- ▶️ I regularly post videos on [youtube.com/PhecGames](https://www.youtube.com/channel/UCY-yLp6i1XQnXBpfBQh7BRQ)
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
