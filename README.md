@@ -55,6 +55,8 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/pedrollopesb/pedrollopesb/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
