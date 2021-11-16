@@ -2,13 +2,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cristiano Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cristianofnascimento&color=yellow" alt="Profile views" /> </p>
 
- <ul>
-      <li>🔭 I'm currently a full-stack web development student, passionate about front-end and back end technologies.</li>
-      <li>🌱 I’m learning HTML5, CSS3 and JavaScript.</li>
-      <li> ▶️ I regularly post videos on [youtube.com/PhecGames](https://www.youtube.com/channel/UCY-yLp6i1XQnXBpfBQh7BRQ).</li>
-      <li>📩 How to reach me: cristianofnascimento@gmail.com or clicking here <a href = "mailto:cristianofnascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrollopesb@gmail.com&longCache=true" target="_blank"></a></li>
-      <li>❤️ Interests: 💻 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games.</li>
-      </ul>
+<h3 align="left">About me... 🚀 </h3>
+      🔭 I'm currently a full-stack web development student, passionate about front-end and back end technologies.
+      🌱 I’m learning HTML5, CSS3 and JavaScript.
+      ▶️ I regularly post videos on [youtube.com/PhecGames](https://www.youtube.com/channel/UCY-yLp6i1XQnXBpfBQh7BRQ).
+      📩 How to reach me: cristianofnascimento@gmail.com or clicking here <a href = "mailto:cristianofnascimento@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrollopesb@gmail.com&longCache=true" target="_blank"></a>
+      ❤️ Interests: 💻 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games.
+      
+      
 
 
 
