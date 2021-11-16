@@ -1,5 +1,5 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Cristianofnascimento/9da8631775da410fa459fbfe5ac3099a/raw/9b85d98a166807d83de2c609893bcd6ecec925b0/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">, I'm Cristiano Nascimento</h1>
+<img align="right" height="550em" src="https://raw.githubusercontent.com/gist/Cristianofnascimento/9da8631775da410fa459fbfe5ac3099a/raw/9b85d98a166807d83de2c609893bcd6ecec925b0/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cristiano Nascimento</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Cristianofnascimento&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 An Developer Student focused on learning programing
