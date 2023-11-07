@@ -6,7 +6,7 @@
       
 - 🔥 An Developer Student focused on learning programing
 
-- ▶️ I regularly post videos on [youtube.com/PhecGames](https://www.youtube.com/channel/UCY-yLp6i1XQnXBpfBQh7BRQ)
+- ▶️ I regularly post videos on [youtube]
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
       
